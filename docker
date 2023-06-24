@@ -1,0 +1,2 @@
+docker build -t my_program .
+docker run -it -p 33333:33333 --name my-running-app my_program
