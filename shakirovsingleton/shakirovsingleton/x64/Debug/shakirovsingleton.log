@@ -1,0 +1,3 @@
+﻿  shakirovsingleton.cpp
+C:\Users\shaki\OneDrive\MyProj_221-3210_Shakirov\shakirovsingleton\shakirovsingleton\singleton.h(36,17): warning C4244: инициализация: преобразование "time_t" в "int", возможна потеря данных
+  shakirovsingleton.vcxproj -> C:\Users\shaki\OneDrive\MyProj_221-3210_Shakirov\shakirovsingleton\x64\Debug\shakirovsingleton.exe

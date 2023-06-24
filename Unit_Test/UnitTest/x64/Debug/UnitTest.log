@@ -1,0 +1,3 @@
+﻿  UnitTest.cpp
+C:\Users\shaki\OneDrive\MyProj_221-3210_Shakirov\Unit_Test\UnitTest\singleton.h(36,17): warning C4244: инициализация: преобразование "time_t" в "int", возможна потеря данных
+  UnitTest.vcxproj -> C:\Users\shaki\OneDrive\MyProj_221-3210_Shakirov\Unit_Test\x64\Debug\UnitTest.exe
